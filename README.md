@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img width="620px" alt="hel-logo"  src="[https://pic2.zhimg.com/v2-8271a134ce35d0f46ff8dbc65c910a21_r.jpg](https://pic1.zhimg.com/v2-5e75973d5586db8e245ba97c0d0bad73_1440w.jpg)" />
+  <img width="620px" alt="hel-logo"  src="https://pic1.zhimg.com/v2-5e75973d5586db8e245ba97c0d0bad73_1440w.jpg" />
 </p>
 # 功能
 
