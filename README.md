@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="100%" alt="hel-logo"  src="https://pic1.zhimg.com/v2-5e75973d5586db8e245ba97c0d0bad73_1440w.jpg" />
+  <img width="100%" alt="hel-logo"  src="https://raw.githubusercontent.com/CCCpan/Gebaini/main/ccc.png" />
 </p>
 
 # 功能
