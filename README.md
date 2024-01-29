@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img width="620px" alt="hel-logo"  src="https://pic1.zhimg.com/v2-5e75973d5586db8e245ba97c0d0bad73_1440w.jpg" />
+  <img width="100%" alt="hel-logo"  src="https://pic1.zhimg.com/v2-5e75973d5586db8e245ba97c0d0bad73_1440w.jpg" />
 </p>
+
 # 功能
 
 #### 一：身份Z识别
@@ -51,7 +52,7 @@
 在弹出的文件选择对话框中，导航到您刚下载的build.zip解压文件，然后选择该文件夹。
 
 ###### 5:安装完成如下图
-<p align="center">
+<p align="left">
 <img width="620px" alt="hel-logo"  src="https://pic2.zhimg.com/v2-8271a134ce35d0f46ff8dbc65c910a21_r.jpg" />
 </p>
 
