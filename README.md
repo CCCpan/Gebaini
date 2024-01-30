@@ -10,22 +10,29 @@
 #### 一：身份证字段识别提取
 
 
-
-
 <p style="display:flex" align="center">
-  <video width="50%" height="240" controls  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/154e5c25-7c34-443a-9ebc-50e07a9f4075">
-    <source src="https://github.com/CCCpan/Gebaini/assets/19424465/154e5c25-7c34-443a-9ebc-50e07a9f4075"  >
+  <video width="50%" height="240" controls  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/265cf236-595c-4b7b-9e39-9a693050d402">
+ 
   </video>
 </p>
 
 
+
+
 #### 二：身份证提取矫正
 <p align="center">
+   <video width="50%" height="240" controls  src="https://github.com/CCCpan/Gebaini/assets/19424465/54daefd3-2a2f-4475-9db8-f1c01fea441c"  type="video/webm" >
  
+  </video>
 </p>
+
 #### 三：滑动验证码自动完成
 
-
+<p align="center">
+   <video width="50%" height="240" controls  src="https://github.com/CCCpan/Gebaini/assets/19424465/a7c0249e-e12d-4f6c-b7e9-2014a9f47356"  type="video/webm" >
+    
+  </video>
+</p>
 
 # 如何使用
 #### 二：谷歌浏览器插件
