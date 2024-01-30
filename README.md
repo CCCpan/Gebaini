@@ -93,8 +93,9 @@ print(response.text)
 
 ##### 5:安装完成如下图
 <p align="left"> 
-<img height="220px" alt="hel-logo"  src="http://47.92.141.42:1002/download/anzhuangshuoming.png" />
+<img height="220px" alt="hel-logo"  src="https://github.com/CCCpan/Gebaini/assets/19424465/b983e647-af2f-4048-9f3c-cde1a1b59bd5" />
 </p>
+
 
 ##### 6:刷新浏览器 
 
