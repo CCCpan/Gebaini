@@ -7,17 +7,19 @@
 
 # 功能
 
-#### 一：身份Z字段识别提取
+#### 一：身份证字段识别提取
+
+
+
+
 <p style="display:flex" align="center">
-  <img width="600px"  height="200px" src="http://47.92.141.42:1002/download/sfz.gif" />
-  <img width="600px"  height="200px"  src="http://47.92.141.42:1002/download/jiaozheng.gif" />
-  <video width="320" height="240" controls>
-    <source src="http://47.92.141.42:1002/download/mouhu.webm" type="video/webm">
+  <video width="50%" height="240" controls  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/154e5c25-7c34-443a-9ebc-50e07a9f4075">
+    <source src="https://github.com/CCCpan/Gebaini/assets/19424465/154e5c25-7c34-443a-9ebc-50e07a9f4075"  >
   </video>
 </p>
 
 
-#### 二：身份Z提取矫正
+#### 二：身份证提取矫正
 <p align="center">
  
 </p>
