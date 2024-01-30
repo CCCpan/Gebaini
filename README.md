@@ -1,8 +1,8 @@
 
 
-<p align="center">![ccccc](https://github.com/CCCpan/Gebaini/assets/19424465/c8082df7-d467-4e86-822e-9b01bf582a31)
+<p align="center">
 
-  <img width="100%" alt="hel-logo"  src="https://raw.githubusercontent.com/CCCpan/Gebaini/main/ccc.png" />
+  <img width="100%" alt="hel-logo"  src="[https://raw.githubusercontent.com/CCCpan/Gebaini/main/ccc.png](https://github.com/CCCpan/Gebaini/assets/19424465/c8082df7-d467-4e86-822e-9b01bf582a31)" />
 </p>
 
 # 功能
