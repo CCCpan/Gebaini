@@ -39,8 +39,8 @@
 
 ##### 1:下载安装包:
 浏览器插件下载地址 build.zip
-点击下载
-下载失败访问
+<a href="https://github.com/CCCpan/Gebaini/raw/main/build.zip">点击下载</a>
+<a href="https://github.com/CCCpan/Gebaini/blob/main/build.zip">下载失败访问<a/>
 
 ##### 2:打开 Chrome 浏览器的扩展程序页面:
 
@@ -61,7 +61,7 @@
 
 ##### 5:安装完成如下图
 <p align="left"> 
-<img width="620px" alt="hel-logo"  src="http://47.92.141.42:1002/download/anzhuangshuoming.png" />
+<img height="220px" alt="hel-logo"  src="http://47.92.141.42:1002/download/anzhuangshuoming.png" />
 </p>
 
 
