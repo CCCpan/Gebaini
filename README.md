@@ -1,10 +1,10 @@
 # 目录
-- [功能](#功能)
+- [功能演示](#功能演示)
   - [身份证字段识别提取](#身份证字段识别提取)
   - [证件提取矫正](#证件提取矫正)
   - [滑动验证码自动完成](#滑动验证码自动完成)
 - [如何使用](#如何使用)
-  - [API](#API)
+  - [API调用](#API)
   - [谷歌浏览器插件](#谷歌浏览器插件)
 - [常见问题](#常见问题)
 
@@ -13,11 +13,9 @@
   <img width="100%"   alt="hel-logo"  src="https://github.com/CCCpan/Gebaini/assets/19424465/c8082df7-d467-4e86-822e-9b01bf582a31" />
 </p>
 
-## 功能
+## 功能演示
 
 ### 一：身份证字段识别提取
-
-
 <p style="display:flex" align="center">
   <video width="50%" height="240" controls  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/265cf236-595c-4b7b-9e39-9a693050d402">
  
