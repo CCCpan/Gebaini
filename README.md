@@ -1,11 +1,14 @@
+# 目录
+- [功能](#功能)
+- [如何使用](#如何使用)
+- [常见问题](#常见问题)
 
 
 <p align="center">
-
-  <img width="1px"   alt="hel-logo"  src="https://github.com/CCCpan/Gebaini/assets/19424465/c8082df7-d467-4e86-822e-9b01bf582a31" />
+  <img width="100%"   alt="hel-logo"  src="https://github.com/CCCpan/Gebaini/assets/19424465/c8082df7-d467-4e86-822e-9b01bf582a31" />
 </p>
 
-# 功能
+## 功能
 
 #### 一：身份证字段识别提取
 
@@ -34,7 +37,7 @@
   </video>
 </p>
 
-# 如何使用
+## 如何使用
 #### 二：谷歌浏览器插件
 
 ##### 1:下载安装包:
