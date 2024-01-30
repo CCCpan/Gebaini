@@ -15,7 +15,7 @@
 
 ## 功能演示
 
-### 一：身份证字段识别提取
+## 一：身份证字段识别提取
 <p style="display:flex" align="center">
   <video width="50%" height="240" controls  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/265cf236-595c-4b7b-9e39-9a693050d402">
  
@@ -25,7 +25,7 @@
 
 
 
-### 二：证件提取矫正
+## 二：证件提取矫正
 <p align="center">
    <video width="50%" height="240" controls  src="https://github.com/CCCpan/Gebaini/assets/19424465/54daefd3-2a2f-4475-9db8-f1c01fea441c"  type="video/webm" >
  
