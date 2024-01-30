@@ -9,8 +9,11 @@
 
 #### 一：身份Z字段识别提取
 <p style="display:flex" align="center">
-  <img width="600px"  height="200px" src="http://47.92.141.42:1002/download/anzhuangshuoming.png" />
-  <img width="600px"  height="200px"  src="//github.com/CCCpan/Gebaini/assets/19424465/c1b7a7a7-0114-40b4-b02b-76843afaabc3" />
+  <img width="600px"  height="200px" src="http://47.92.141.42:1002/download/sfz.gif" />
+  <img width="600px"  height="200px"  src="http://47.92.141.42:1002/download/jiaozheng.gif" />
+  <video width="320" height="240" controls>
+    <source src="http://47.92.141.42:1002/download/mouhu.webm" type="video/webm">
+  </video>
 </p>
 
 
@@ -49,7 +52,7 @@
 
 ##### 5:安装完成如下图
 <p align="left"> 
-<img width="620px" alt="hel-logo"  src="https://github.com/CCCpan/Gebaini/assets/19424465/3a2abc9f-f27c-46fc-9b73-39a1f3bd8a71" />
+<img width="620px" alt="hel-logo"  src="http://47.92.141.42:1002/download/anzhuangshuoming.png" />
 </p>
 
 
