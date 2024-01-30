@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img width="100%" height="300px" alt="hel-logo"  src="https://github.com/CCCpan/Gebaini/assets/19424465/c8082df7-d467-4e86-822e-9b01bf582a31" />
+  <img width="100%"   alt="hel-logo"  src="https://github.com/CCCpan/Gebaini/assets/19424465/c8082df7-d467-4e86-822e-9b01bf582a31" />
 </p>
 
 # 功能
