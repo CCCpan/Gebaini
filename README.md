@@ -9,7 +9,7 @@
 
 #### 一：身份Z字段识别提取
 <p style="display:flex" align="center">
-  <img width="600px"  height="200px" src="//github.com/CCCpan/Gebaini/assets/19424465/1be205f0-07a1-45d9-923b-fe2fb5631460" />
+  <img width="600px"  height="200px" src="http://47.92.141.42:1002/download/anzhuangshuoming.png" />
   <img width="600px"  height="200px"  src="//github.com/CCCpan/Gebaini/assets/19424465/c1b7a7a7-0114-40b4-b02b-76843afaabc3" />
 </p>
 
