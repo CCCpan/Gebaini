@@ -15,7 +15,7 @@
 
 ## 功能
 
-#### 一：身份证字段识别提取
+### 一：身份证字段识别提取
 
 
 <p style="display:flex" align="center">
@@ -27,14 +27,14 @@
 
 
 
-#### 二：证件提取矫正
+### 二：证件提取矫正
 <p align="center">
    <video width="50%" height="240" controls  src="https://github.com/CCCpan/Gebaini/assets/19424465/54daefd3-2a2f-4475-9db8-f1c01fea441c"  type="video/webm" >
  
   </video>
 </p>
 
-#### 三：滑动验证码自动完成
+### 三：滑动验证码自动完成
 
 <p align="center">
    <video width="50%" height="240" controls  src="https://github.com/CCCpan/Gebaini/assets/19424465/a7c0249e-e12d-4f6c-b7e9-2014a9f47356"  type="video/webm" >
@@ -43,7 +43,7 @@
 </p>
 
 ## 如何使用
-#### 二：谷歌浏览器插件
+### 二：谷歌浏览器插件
 
 ##### 1:下载安装包:
 浏览器插件下载地址 build.zip
@@ -76,7 +76,7 @@
 
 
 
-#### 一：API
+### 一：API
 
 
 <pre lay-lang="javascript">import requests
