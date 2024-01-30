@@ -30,9 +30,9 @@
 # 身份Z字段识别提取
 url = "http://47.92.141.42:1002/predict/ocr/sfz"
 # 身份Z提取矫正
-url = "http://47.92.141.42:1002/predict/ocr/area"
+# url = "http://47.92.141.42:1002/predict/ocr/area"
 # 滑动验证码自动完成
-url = "http://47.92.141.42:1002/predict/ocr/yzm"
+# url = "http://47.92.141.42:1002/predict/ocr/yzm"
 # 请求头
 header = {"Content-Type": "application/json"}
 # 请求体 
