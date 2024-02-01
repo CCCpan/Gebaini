@@ -17,10 +17,14 @@
 
 ### 身份证字段识别提取
 <p style="display:flex" align="center">
-  <video width="50%" height="240" controls  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/265cf236-595c-4b7b-9e39-9a693050d402">
+  <video width="50%" height="240" controls  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/35d2a72d-4fa5-4a58-b1f6-cc4ebfef9546">
  
   </video>
 </p>
+
+
+
+
 
 
 
