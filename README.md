@@ -1,3 +1,4 @@
+
 # 目录
 - [功能演示](#功能演示)
   - [身份证字段识别提取](#身份证字段识别提取)
@@ -10,7 +11,9 @@
 - [常见问题](#常见问题)
 
 
-
+# 部署
+  <a href="https://aistudio.baidu.com/projectdetail/7515609?contributionType=1"  target="_blank">Notebook</a>
+  
 ## 功能演示
 
 ### 身份证字段识别提取
