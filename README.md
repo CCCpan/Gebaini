@@ -26,14 +26,14 @@
 - [常见问题](#常见问题)
 
 
-# 部署
+# 部署代码
   <a href="https://aistudio.baidu.com/projectdetail/7515609?contributionType=1"  target="_blank">Notebook </a>
   
 ## 功能演示
 
 ### 身份证字段识别提取
 <p style="display:flex" align="center">
-  <video width="50%" height="240" controls  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/35d2a72d-4fa5-4a58-b1f6-cc4ebfef9546">
+  <video width="100%" height="240" controls style="width: 100% !important;"  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/35d2a72d-4fa5-4a58-b1f6-cc4ebfef9546">
  
   </video>
 </p>
