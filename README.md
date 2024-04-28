@@ -12,9 +12,11 @@
   <a><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/></a>
   <a><img src="https://img.shields.io/badge/Powered%20by-Vue-blue"/></a>
 </p>
+<p align="center">
+  <img width="100%" src="https://github.com/CCCpan/Gebaini/blob/feature/document-cpan/examples/banner.png"/> 
+</p>
 
-
-# 目录
+## 目录
 - [功能演示](#功能演示)
   - [身份证字段识别提取](#身份证字段识别提取)
   - [证件提取矫正](#证件提取矫正)
@@ -26,7 +28,7 @@
 - [常见问题](#常见问题)
 
 
-# 部署代码
+## 部署代码
   <a href="https://aistudio.baidu.com/projectdetail/7515609?contributionType=1"  target="_blank">Notebook </a>
   
 ## 功能演示
