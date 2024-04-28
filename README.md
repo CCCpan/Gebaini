@@ -1,3 +1,18 @@
+<h1 align="center">
+  Gebaini
+</h1>
+
+<p align="center">
+ <a href="README.md">简体中文</a> | <a href="docs/README.en.md">English</a> | <a href="docs/README.es.md">Spanish</a> | <a href="docs/README.de.md">German</a> | 
+<a href="docs/README.fr.md">French</a> |  <a href="docs/README.ja.md">日本語</a> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/LICENSE"><img src="https://img.shields.io/github/license/zyronon/douyin" alt="License"></a>
+  <a><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/></a>
+  <a><img src="https://img.shields.io/badge/Powered%20by-Vue-blue"/></a>
+</p>
+
 
 # 目录
 - [功能演示](#功能演示)
