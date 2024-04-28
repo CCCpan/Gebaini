@@ -96,8 +96,8 @@ print(response.text)
 
 ##### 1:下载安装包:
 浏览器插件下载地址 build.zip
-<a href="https://github.com/CCCpan/Gebaini/raw/main/build.zip">点击下载</a>
-<a href="https://github.com/CCCpan/Gebaini/blob/main/build.zip">下载失败访问<a/>
+<a href="https://github.com/CCCpan/Gebaini/raw/feature/document-cpan/chome-extension/build.zip">点击下载</a>
+<a href="https://github.com/CCCpan/Gebaini/raw/feature/document-cpan/chome-extension/build.zip">下载失败访问<a/>
 
 ##### 2:打开 Chrome 浏览器的扩展程序页面:
 
