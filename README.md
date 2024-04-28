@@ -1,5 +1,22 @@
+<h1 align="center">
+  Gebaini
+</h1>
 
-# 目录
+<p align="center">
+ <a href="README.md">简体中文</a> | <a href="docs/README.en.md">English</a> | <a href="docs/README.es.md">Spanish</a> | <a href="docs/README.de.md">German</a> | 
+<a href="docs/README.fr.md">French</a> |  <a href="docs/README.ja.md">日本語</a> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/LICENSE"><img src="https://img.shields.io/github/license/zyronon/douyin" alt="License"></a>
+  <a><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/></a>
+  <a><img src="https://img.shields.io/badge/Powered%20by-Vue-blue"/></a>
+</p>
+<p align="center">
+  <img width="100%" src="https://github.com/CCCpan/Gebaini/blob/feature/document-cpan/examples/banner.png"/> 
+</p>
+
+## 目录
 - [功能演示](#功能演示)
   - [身份证字段识别提取](#身份证字段识别提取)
   - [证件提取矫正](#证件提取矫正)
@@ -11,14 +28,14 @@
 - [常见问题](#常见问题)
 
 
-# 部署
+## 部署代码
   <a href="https://aistudio.baidu.com/projectdetail/7515609?contributionType=1"  target="_blank">Notebook </a>
   
 ## 功能演示
 
 ### 身份证字段识别提取
 <p style="display:flex" align="center">
-  <video width="50%" height="240" controls  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/35d2a72d-4fa5-4a58-b1f6-cc4ebfef9546">
+  <video width="100%" height="240" controls style="width: 100% !important;"  type="video/webm" src="https://github.com/CCCpan/Gebaini/assets/19424465/35d2a72d-4fa5-4a58-b1f6-cc4ebfef9546">
  
   </video>
 </p>
