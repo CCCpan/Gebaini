@@ -67,7 +67,7 @@
 ## 如何使用
 
 ### 支持微调finetune
-私聊我
+私聊我WX: chenganp
 
 ### API
 
