@@ -31,8 +31,8 @@
 
 
 ## 部署代码
-  <a href="https://aistudio.baidu.com/projectdetail/7515609?contributionType=1"  target="_blank">Notebook </a>
-  
+  <a href="https://aistudio.baidu.com/projectdetail/7515609?contributionType=1"  target="_blank">Notebook baidu </a>
+
 ## 功能演示
 
 ### 身份证字段识别提取
