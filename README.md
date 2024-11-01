@@ -16,6 +16,9 @@
   <img width="100%" src="https://github.com/CCCpan/Gebaini/blob/feature/document-cpan/examples/banner.png"/> 
 </p>
 
+## 部署代码
+  <a href="https://aistudio.baidu.com/projectdetail/7515609?contributionType=1"  target="_blank">在线运行，代码可私有化部署、baidu飞桨 100+fork</a>
+  
 ## 目录
 - [部署代码](#部署代码)
   - [Notebook](#部署代码)
@@ -30,8 +33,6 @@
 - [常见问题](#常见问题)
 
 
-## 部署代码
-  <a href="https://aistudio.baidu.com/projectdetail/7515609?contributionType=1"  target="_blank">Notebook baidu </a>
 
 ## 功能演示
 
